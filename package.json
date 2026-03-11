@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/siia-umich",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a siia-umich",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/siia-umich.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://exe2aut.com/es/siia-umich/"
+    },
+    "homepage": "https://exe2aut.com/es/siia-umich/"
+}
